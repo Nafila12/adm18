@@ -2,7 +2,7 @@
     <div class="float-right d-none d-sm-block">
         <b>Version</b> 201
     </div>
-    <strong>Editz @fylaaz <a href="https://adminlte.io">AdminLTE.io</a>.</strong> minions
+    <strong>Editz @fylaaz</strong> minions
 </footer>
 
 <!-- Control Sidebar -->
